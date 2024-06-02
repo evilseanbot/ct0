@@ -1,4 +1,43 @@
 title: Start
 ---
+Narrarator: What do you want to look at?
+-> In-depth script
+    <<jump InDepthStart>>
+-> High level overview of the narrative
+    <<jump highLevelNarrative>>
+===
+title: highLevelNarrative
+---
 
-This is the start!
+There are two prequel stories available to play, Frog and Magus.
+
+At various points during the game, often near save points, you have the option of switching to a different story to play through. Prequel stories can effect each other.
+
+Frog's story covers Glenn and Cyrus becoming Knights of guardia to when Frog permanently joins the party in Chrono Trigger.
+
+Some canon events that can happen:
+- (~560 AD) Cyrus is born, and Glenn is born a few years after.
+- (~580 AD) Cyrus informs Glenn that he intends to enlist in the Guardian army.
+- Leene marries King Guardia and becomes Queen Leene.
+- Cyrus becomes a knight.
+- Cyrus becomes Knight Commander of Guardia.
+- (~580) The fiendwar begins.
+- (~590) Cyrus and Glenn get the hero medal by defeating the Frog King.
+- (~590) Cyrus and Glenn fight Magus, with Cyrus being killed by Magus and Glenn transformed into Frog.
+- (600 AD) Frog investigates Yakra's sanctuary.
+- (600 AD) Frog swims across the broken Zenan bridge.
+
+Magus's story covers some of his childhood in Zeal, from before his mother changed to when he joins the party in Chrono Trigger. 
+- (12,019 BC) Schala is born.
+- (12,010 BC) Janus is born.
+- Zealian science, technology, and philosophy advance rapidly due to the research of Belthasar, Melchior, and Gaspar.
+- The King of Zeal, father of Schala and Janus, dies. His wife, Queen Zeal, rules alone in his stead.
+- The kingdom's primary power source, the Sun Stone, is losing power. It is locked away in the Sun Temple.
+- With the help of the Gurus, Queen Zeal commissions the construction of the Mammon Machine and places the Frozen Flame within it to serve as the kingdom's new power source. The queen's mind begins to warp from exposure to the artifact.
+Both Schala and Janus begin having bad dreams, Janus imagining a "black wind" coming for Zeal.
+Construction of the Ocean Palace and the Blackbird begin.
+- Fearing the machine's power and the queen's gradual decline into madness, Melchior constructs the ultimate weapon.
+- (~580 AD) Janus falls through a Time Gate and arrives in Truce Canyon, where he is attacked by fiends. He fends them off (using magic?)
+- (~580 AD) The fiend general, Ozzie, adopts him and raises him up to become Magus, the Fiendlord and the enemy of all mankind. Thus the Fiend War begins.
+===
+
